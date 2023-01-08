@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Harry Potter Wiki",
+      "live": "https://harry-potter-wiki.onrender.com/",
+      "git": "https://github.com/lanbow93/Harry_Potter_Wiki",
+      "image": "https://i.imgur.com/ZUMIg6n.png"
+    },
+    {
+      "name": "Personal Library",
+      "live": "https://lanbow93.github.io/My_Personal_Library/projectFolder/",
+      "git": "https://github.com/lanbow93/My_Personal_Library",
+      "image": "https://i.imgur.com/U325gZq.png"
+    },
+    {
+        "name": "Weather Lookup",
+        "live": "https://lanbow93.github.io/weather_app/weather_app_lab/",
+        "git": "https://github.com/lanbow93/weather_app",
+        "image": "https://imgur.com/pdmlOEc"
+    },
+    {
+        "name": "Pet Simulator",
+        "live": "https://codepen.io/the-doctor1434/pen/YzLYgKx",
+        "git": "https://codepen.io/the-doctor1434/pen/YzLYgKx",
+        "image": "https://i.imgur.com/kmcNnbN.png"
+    }
+  ]
