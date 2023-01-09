@@ -10,6 +10,9 @@ const about = require('./about.json');
 // Application object
 const app = express();
 
+//Middleware
+app.use(cors())
+
 // Routes 
 app.get("/", (request, response) => {
     response.send("Server is running")
