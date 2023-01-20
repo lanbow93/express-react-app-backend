@@ -1,0 +1,49 @@
+[
+    {
+        "jobs": [
+            {
+            "title": "Systems Support Specialist III",
+            "company": "Texas Health and Human Services",
+            "location": "Austin, Texas",
+            "date": "November 2020 - Present",
+            "details": ["Create trouble tickets in the agency's problem tracking system allowing real-time tracking and the DSHS to have a issues resolved under 2 hours for COVID critical research and development","Diagnose, troubleshoot and resolve 45 software, hardware and connectivity issues on average daily, with about 3-5 being mission critical", "Identified an issue and workaround for the state VPN though detailed probing and researching, which then allowed 30 thousand workers to resume operation"]
+            },
+            {
+            "title": "Service Coordinator I",
+            "company": "Facility Solutions Group (Smart Buildings)",
+            "location": "Pflugerville, Texas",
+            "date": "November 2019 - May 2020",
+            "details": ["Trained in the Agile methodology of Scrum by the local Scrum master, shadowed in daily meetings and was provided paid Scrum materials for further development","Analyzed system issues and condition reports with Regional Analysts to do cost-benefit analyses, on equipment, technology and implementations to mitigate costs ranging between $400 to $2500 weekly", "Strategically planned alongside local engineering team and management to determine priority and and urgency of emerging issues in the system"]
+            },
+            {
+            "title": "Service Coordinator I",
+            "company": "TruSource Labs (Google/Nest)",
+            "location": "Austin, Texas",
+            "date": "August 2015 - March 2019",
+            "details": ["Proposed and executed a project to improve case escalations from Tier 1 agents by facilitating communication between departments, leading to a 25% increase in escalated cases in only 30 days (60% increase in 60 days)","Entrusted and provided results with projects such as investigating why a product was damaging systems worth $10,000+ and why end-users were able to self-install causing a spike in call center operations", "Developed excel pivot tables to present effectiveness, quality, and findings of department during QBRs and Annual reviews that helped contribute to contract negotiations for organization and the client", "Assisted in the training and development for over 7 new ACI analysts allowing our area to take on more projects with multiple engineering departments and solidify our placement in the structure"]
+    }],
+    "education": [
+        {
+            "title": "Software Engineering Immersive (On-Going)",
+            "facility": "General Assembly",
+            "location": "Austin, Texas",
+            "description": "Full-stack software engineering immersive student in an intensive, twelve-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developing a portfolio of individual and group projects."
+        }, 
+        {
+            "title": "Python 3 Course (10/2020)",
+            "facility": "Codecademy",
+            "location": "Remote",
+            "description": "Completed Codecademy's comprehensive Python 3 course, gaining proficiency in fundamental programming concepts such as data types, control flow, and object-oriented programming"
+        },
+        {
+            "title": "Information Technology (10/2014)",
+            "facility": "Vista College",
+            "location": "Killeen, Texas",
+            "description": "Studied and honed skills in areas such as database management, network security, and software development."
+        }
+    ]
+
+
+}
+
+]

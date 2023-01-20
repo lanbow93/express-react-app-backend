@@ -6,6 +6,7 @@ require("dotenv").config()
 // Import JSON
 const projects = require('./projects.json');
 const home = require('./home.json');
+const about = require('./about.json');
 
 // Application object
 const app = express();
@@ -24,6 +25,10 @@ app.get("/projects", (request, response) => {
 
 app.get("/home", (request,response) => {
     response.json(home)
+})
+
+app.get("/about", (request, response) => {
+    response.json(about)
 })
 
 
