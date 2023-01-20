@@ -4,31 +4,35 @@
       "live": "https://harry-potter-wiki.onrender.com/",
       "git": "https://github.com/lanbow93/Harry_Potter_Wiki",
       "image": "https://i.imgur.com/ZUMIg6n.png",
+      "description": "An Express in conjunction with EJS web application. Purpose: To allow users to use full CRUD abilities to view and edit a Harry Potter wiki page",
       "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Express JS", "EJS", "Mongoose", "MongoDB"],
-      "description": ["Built fully functional and styled CRUD application, storing and accessing information on MongoDB with Mongoose","Implemented the Bootstrap Framework to supplement CSS, increasing responsiveness to mobile platform", "Experienced the importance of abstraction when having to go back an refactor hardcoded areas and debugging"]
+      "summary": ["Built fully functional and styled CRUD application, storing and accessing information on MongoDB with Mongoose","Implemented the Bootstrap Framework to supplement CSS, increasing responsiveness to mobile platform", "Experienced the importance of abstraction when having to go back an refactor hardcoded areas and debugging"]
     },
     {
       "name": "Personal Library",
       "live": "https://lanbow93.github.io/My_Personal_Library/projectFolder/",
       "git": "https://github.com/lanbow93/My_Personal_Library",
       "image": "https://i.imgur.com/U325gZq.png",
+      "description": "JQuery Application incorporating APIs and LocalStorage. Purpose: To allow user to search and save book details to a personal library with shelves",
       "skills": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
-      "description": ["Incorporated AJax to become familiar with the basis of making a request to allow a better understanding of the modern Fetch API","Implemented jQuery to manipulate DOM understanding how to integrate legacy code into modern libraries and frameworks"]
+      "summary": ["Incorporated AJax to become familiar with the basis of making a request to allow a better understanding of the modern Fetch API","Implemented jQuery to manipulate DOM understanding how to integrate legacy code into modern libraries and frameworks"]
     },
     {
         "name": "Weather Lookup",
         "live": "https://lanbow93.github.io/weather_app/weather_app_lab/",
         "git": "https://github.com/lanbow93/weather_app",
         "image": "https://imgur.com/pdmlOEc.png",
+        "description": "jQuery Application with API Calls, Purpose: To allow users to check the current weather in their area an on larger screens have the ability to see a five day forecast",
         "skills": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
-       "description": ["Implemented mobile responsiveness with the Grid system in conjunction with Flexbox", "Utilizes Promise method to query weather api and parse JSON"]
+       "summary": ["Implemented mobile responsiveness with the Grid system in conjunction with Flexbox", "Utilizes Promise method to query weather api and parse JSON"]
     },
     {
         "name": "Pet Simulator",
         "live": "https://codepen.io/the-doctor1434/pen/YzLYgKx",
         "git": "https://codepen.io/the-doctor1434/pen/YzLYgKx",
         "image": "https://i.imgur.com/kmcNnbN.png",
+        "description": "Real-Time Browser Application. Purpose: To allow user to take care of pet whose needs change over time",
         "skills": ["HTML", "CSS", "JavaScript"],
-        "description": ["Built the foundation of a responsive web game with HTML, CSS, and JavaScript to ensure a functional and usable user experience","Implemented asynchronous function setInterval which provided insights into the concept of threads"]
+        "summary": ["Built the foundation of a responsive web game with HTML, CSS, and JavaScript to ensure a functional and usable user experience","Implemented asynchronous function setInterval which provided insights into the concept of threads"]
     }
   ]
