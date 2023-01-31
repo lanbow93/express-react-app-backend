@@ -3,7 +3,7 @@
     "name": "My Job Tracker",
     "live": "https://my-job-tracker-iqlw.onrender.com/",
     "git": "https://github.com/lanbow93/application-tracker-frontend",
-    "image": "https://i.imgur.com/pYzoQZb.png",
+    "image": "https://static.wixstatic.com/media/8ee8bf_d38fe01ea5fd4f74bacaa6a2e82890a4~mv2.png",
     "description": "An Express-React App to be able to add, view, and be linked to job postings with details on each job. Users should easily be able to view a list of job postings, when clicking on them receives more details in regard to the specific posting. On the page showing individual job should contain a button that links them to the actual job posting to apply to",
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Express JS", "React JS", "Mongoose", "MongoDB", "Scrum", "Git", "Trello"],
     "summary": ["Worked in a team and utilized Git for version control during the development and deployment of the project","Designed and developed a full-stack MERN application with job posting functionality", "Implemented CRUD operations, UI using React components, server-side logic using Express.js, and integrated MongoDB database","Enhanced user experience by implementing detailed view of each job posting and direct application link", "Deployed the application on a cloud platform for accessibility"]
