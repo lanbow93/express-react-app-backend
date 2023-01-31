@@ -3,7 +3,7 @@
     "name": "My Job Tracker",
     "live": "https://my-job-tracker-iqlw.onrender.com/",
     "git": "https://github.com/lanbow93/application-tracker-frontend",
-    "image": "https://static.wixstatic.com/media/8ee8bf_d38fe01ea5fd4f74bacaa6a2e82890a4~mv2.png",
+    "image": "https://static.wixstatic.com/media/8ee8bf_1ea343cd2bf54dcd8ba255e95227e537~mv2.png",
     "description": "An Express-React App to be able to add, view, and be linked to job postings with details on each job. Users should easily be able to view a list of job postings, when clicking on them receives more details in regard to the specific posting. On the page showing individual job should contain a button that links them to the actual job posting to apply to",
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Express JS", "React JS", "Mongoose", "MongoDB", "Scrum", "Git", "Trello"],
     "summary": ["Worked in a team and utilized Git for version control during the development and deployment of the project","Designed and developed a full-stack MERN application with job posting functionality", "Implemented CRUD operations, UI using React components, server-side logic using Express.js, and integrated MongoDB database","Enhanced user experience by implementing detailed view of each job posting and direct application link", "Deployed the application on a cloud platform for accessibility"]
@@ -12,7 +12,7 @@
     "name": "Harry Potter Wiki",
     "live": "https://harry-potter-wiki.onrender.com/",
     "git": "https://github.com/lanbow93/Harry_Potter_Wiki",
-    "image": "https://i.imgur.com/ZUMIg6n.png",
+    "image": "https://static.wixstatic.com/media/8ee8bf_0b1333829b8b47c6b88bdbe7a0c86a33~mv2.png",
     "description": "An Express in conjunction with EJS web application. Purpose: To allow users to use full CRUD abilities to view and edit a Harry Potter wiki page",
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Express JS", "EJS", "Mongoose", "MongoDB"],
     "summary": ["Built fully functional and styled CRUD application, storing and accessing information on MongoDB with Mongoose","Implemented the Bootstrap Framework to supplement CSS, increasing responsiveness to mobile platform", "Experienced the importance of abstraction when having to go back an refactor hardcoded areas and debugging"]
@@ -21,7 +21,7 @@
     "name": "Personal Library",
     "live": "https://lanbow93.github.io/My_Personal_Library/projectFolder/",
     "git": "https://github.com/lanbow93/My_Personal_Library",
-    "image": "https://i.imgur.com/U325gZq.png",
+    "image": "https://static.wixstatic.com/media/8ee8bf_b6b91935aee74e25a728e23f81426204~mv2.png",
     "description": "JQuery Application incorporating APIs and LocalStorage. Purpose: To allow user to search and save book details to a personal library with shelves",
     "skills": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
     "summary": ["Incorporated AJax to become familiar with the basis of making a request to allow a better understanding of the modern Fetch API","Implemented jQuery to manipulate DOM understanding how to integrate legacy code into modern libraries and frameworks"]
@@ -30,7 +30,7 @@
       "name": "Weather Lookup",
       "live": "https://lanbow93.github.io/weather_app/weather_app_lab/",
       "git": "https://github.com/lanbow93/weather_app",
-      "image": "https://imgur.com/pdmlOEc.png",
+      "image": "https://static.wixstatic.com/media/8ee8bf_5e5cfe3c064840c9a5ad67a8edf8e883~mv2.png",
       "description": "jQuery Application with API Calls, Purpose: To allow users to check the current weather in their area an on larger screens have the ability to see a five day forecast",
       "skills": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
       "summary": ["Implemented mobile responsiveness with the Grid system in conjunction with Flexbox", "Utilizes Promise method to query weather api and parse JSON"]
@@ -39,7 +39,7 @@
       "name": "Pet Simulator",
       "live": "https://codepen.io/the-doctor1434/pen/YzLYgKx",
       "git": "https://codepen.io/the-doctor1434/pen/YzLYgKx",
-      "image": "https://i.imgur.com/kmcNnbN.png",
+      "image": "https://static.wixstatic.com/media/8ee8bf_1ea343cd2bf54dcd8ba255e95227e537~mv2.png",
       "description": "Real-Time Browser Application. Purpose: To allow user to take care of pet whose needs change over time",
       "skills": ["HTML", "CSS", "JavaScript"],
       "summary": ["Built the foundation of a responsive web game with HTML, CSS, and JavaScript to ensure a functional and usable user experience","Implemented asynchronous function setInterval which provided insights into the concept of threads"]
